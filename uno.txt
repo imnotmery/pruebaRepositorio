@@ -1,3 +1,6 @@
 primero fichero
 
 escribo una cosa para hacer un cambio
+
+
+escribo otra cosa para hacer otro cambio
